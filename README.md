@@ -1,1 +1,7 @@
-# Various-Projects
+## Showcase of some of the projects I've been involved
+
+- [Project Datacenter](https://gitlab.com/emil.privat/group_14/-/tree/main/Project%20Datacenter). Where my team and I visited a small Data center at a school in Fredericia, and had a joint project with them. The project consisted of us making a security system device that uses a card reader, fingerprint sensor and keypad to allow users to get into the Data center room. It involved 3D modeling and printing, soldering, laser cutting and programming. It helped strengthen the working in teams part as well.
+
+- [The rover project](https://gitlab.com/emil.privat/group_14/-/tree/main/Project%20Rover). This project was made for a competition between our school and one from Copenhagen. Just like the other one it involved a lot of 3D printing, soldering, and tweaking of the code, we were given some samples and we had to implement everything to work together. Also, a requirement was that it needed to have a web interface where you can control it from.
+
+- [Universal Robots arm](https://gitlab.com/group-323/ur-user-interface). This is a project for Industrial Application. We built a new interface to Polyscope, which can control a robot arm. We can connect to the robot and retrieve packages from it, we had to decipher them and find out how to send commands. The next step was to build a new User Interface using the Tkinter python library.
